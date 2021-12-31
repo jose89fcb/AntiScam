@@ -1,4 +1,4 @@
-Está es una gran herramienta para vuestro servidor de discord qué evitara a los scammers, está herramienta fue desarrollada por s4vitar y H3cJP
+Está es una gran herramienta para vuestro servidor de discord qué evitara a los scammers, está herramienta fue desarrollada por <a href="https://github.com/s4vitar">s4vitar</a> y <a href="https://github.com/H3cJP">H3cJP</a>
 
 
 Está es una herramienta editada por mi solo agregue el embed para que quede mas cool xD
