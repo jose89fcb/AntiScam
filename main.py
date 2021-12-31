@@ -10,7 +10,7 @@ bot.remove_command('help') #Borra el comando por defecto !help
 
 @bot.listen() 
 async def on_message(message):
-    await AntiScam(message, bot = bot, whitelist = whitelist, muted_role='Muted', verified_role='Junglenses', logs_channel=logs_channel) # Here you can change the names of the roles.
+    await AntiScam(message, bot = bot, whitelist = whitelist, muted_role='Muted', verified_role='Verificados', logs_channel=logs_channel) # Here you can change the names of the roles.
    
 
 
