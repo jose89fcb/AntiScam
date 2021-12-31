@@ -9,6 +9,6 @@ Aquí una muestra
 <img src="https://i.imgur.com/Bdsvdky.png">
 <br>
 <br>
-Video: <a href="https://www.youtube.com/watch?v=k0e_AnL5UeE">https://www.youtube.com/watch?v=k0e_AnL5UeE</a>
+Video:(Clic en la imagen o en el enlace) <a href="https://www.youtube.com/watch?v=k0e_AnL5UeE">https://www.youtube.com/watch?v=k0e_AnL5UeE</a> 
 <br>
 [![Video: ](https://img.youtube.com/vi/k0e_AnL5UeE/0.jpg)](https://www.youtube.com/watch?v=k0e_AnL5UeE)
