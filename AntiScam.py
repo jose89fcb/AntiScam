@@ -41,7 +41,7 @@ async def AntiScam(message, bot, whitelist, muted_role, verified_role, logs_chan
         #await channel.send(f'USUARIO MUTEADO: {message_content}')
 
         la = pytz.timezone("Europe/Amsterdam")
-        fmt =  "\n\n**Fecha:** %A, %d de %B de %Y" + "\n\n**Hora:** %H:%M:%S"
+        fmt =  "\n\n**Fecha:** %A, %#d de %B de %Y" + "\n\n**Hora:** %H:%M:%S"
         now = datetime.now(la)
         #####
      
@@ -52,5 +52,3 @@ async def AntiScam(message, bot, whitelist, muted_role, verified_role, logs_chan
         embed.set_thumbnail(url=f"{message.author.avatar_url}")
         
         await channel.send(embed=embed)
-        
-    
